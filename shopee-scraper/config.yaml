@@ -1,0 +1,5 @@
+max-page: 5
+data-per-page: 50
+full-url: 'https://shopee.co.id/Tas-Wanita-cat.36'
+webdriver-path: '/usr/lib/chromium-browser/chromedriver'
+file-store-location: data/
